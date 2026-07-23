@@ -1,0 +1,1 @@
+hey there this is my first txt file in learning git
